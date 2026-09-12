@@ -1,0 +1,14 @@
+{
+  "description": "Tentative hint-order substitutions, rotations and reversals. A smaller version was already tested without a match; this extends indices to 4.",
+  "mode": "slots",
+  "word_count": 12,
+  "slots": [["moon"], ["tower"], ["food"], ["air", "oxygen", "life", "chest"], ["hope", "receive", "rich"], ["two", "twenty", "stock", "number"], ["day", "vote", "three"], ["ten", "day", "rain", "night"], ["this"], ["subject"], ["real"], ["black"]],
+  "rotations": true,
+  "reverse": true,
+  "passphrases": ["", "breathe", "BREATHE"],
+  "base_paths": ["m/44'/0'/0'/0", "m/44'/0'/0'/1", "m/0'/0", "m/0"],
+  "index_start": 0,
+  "index_count": 5,
+  "include_master": true,
+  "compressed_modes": [true]
+}

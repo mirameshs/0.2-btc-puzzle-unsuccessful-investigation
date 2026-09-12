@@ -1,0 +1,13 @@
+{
+  "description": "Hypothesis: these 12 distinct words, black in position 10. All 11! remaining orders; no claim these words/position are correct.",
+  "mode": "permutations",
+  "word_count": 12,
+  "pool": ["moon", "tower", "food", "this", "subject", "real", "black", "one", "order", "stock", "life", "vote"],
+  "fixed_positions": {"10": "black"},
+  "passphrases": ["", "breathe", "BREATHE"],
+  "base_paths": ["m/44'/0'/0'/0", "m/44'/0'/0'/1", "m/0'/0", "m/0"],
+  "index_start": 0,
+  "index_count": 5,
+  "include_master": true,
+  "compressed_modes": [true]
+}

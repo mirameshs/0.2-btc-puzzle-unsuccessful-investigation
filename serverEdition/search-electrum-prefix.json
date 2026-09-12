@@ -1,0 +1,15 @@
+{
+  "description": "Unproven public puzzle hypothesis: same ten-word prefix, Electrum v2 standard seed version 01 instead of BIP39 checksum and seed derivation.",
+  "seed_scheme": "electrum-v2-standard",
+  "mode": "slots",
+  "word_count": 12,
+  "slots": [["moon"], ["tower"], ["food"], ["this"], ["real"], ["subject"], ["address"], ["total"], ["ten"], ["black"], "@BIP39", "@BIP39"],
+  "rotations": false,
+  "reverse": false,
+  "passphrases": ["", "breathe"],
+  "base_paths": ["m/0", "m/1"],
+  "index_start": 0,
+  "index_count": 20,
+  "include_master": false,
+  "compressed_modes": [true]
+}

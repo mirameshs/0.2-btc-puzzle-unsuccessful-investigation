@@ -1,0 +1,203 @@
+{
+  "config_count": 72,
+  "homelessphd_prefix": "moon tower food this real subject address total ten black",
+  "compatible_published_12_word_configs": [],
+  "inspected_12_word_puzzle_configs": [
+    {
+      "file": "configs/clock_ccw.conf",
+      "prefix_compatible": false,
+      "mismatch_positions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "paths": [
+        [
+          "m/44'/0'/0'/0/0"
+        ]
+      ],
+      "note": "Compatibility of published vocabulary/slots only; not proof of a completed run."
+    },
+    {
+      "file": "configs/clock_v1.conf",
+      "prefix_compatible": false,
+      "mismatch_positions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10
+      ],
+      "paths": [
+        [
+          "m/44'/0'/0'/0/0"
+        ]
+      ],
+      "note": "Compatibility of published vocabulary/slots only; not proof of a completed run."
+    },
+    {
+      "file": "configs/el12.conf",
+      "prefix_compatible": false,
+      "mismatch_positions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "paths": [
+        [
+          "m/0'/0"
+        ],
+        [
+          "m/0'/0/0"
+        ],
+        [
+          "m/0/0"
+        ],
+        [
+          "m/44'/0'/0'/0/0"
+        ]
+      ],
+      "note": "Compatibility of published vocabulary/slots only; not proof of a completed run."
+    },
+    {
+      "file": "configs/el_selftest.conf",
+      "prefix_compatible": false,
+      "mismatch_positions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "paths": [
+        [
+          "m/0'/0"
+        ]
+      ],
+      "note": "Compatibility of published vocabulary/slots only; not proof of a completed run."
+    },
+    {
+      "file": "configs/free17_explicit.conf",
+      "prefix_compatible": false,
+      "mismatch_positions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        8,
+        9
+      ],
+      "paths": [
+        [
+          "m/44'/0'/0'/0/0"
+        ]
+      ],
+      "note": "Compatibility of published vocabulary/slots only; not proof of a completed run."
+    },
+    {
+      "file": "configs/pool14.conf",
+      "prefix_compatible": false,
+      "mismatch_positions": [
+        4,
+        7,
+        8,
+        9
+      ],
+      "paths": [
+        [
+          "m/44'/0'/0'/0/0"
+        ]
+      ],
+      "note": "Compatibility of published vocabulary/slots only; not proof of a completed run."
+    },
+    {
+      "file": "configs/t12full.conf",
+      "prefix_compatible": false,
+      "mismatch_positions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        9
+      ],
+      "paths": [],
+      "note": "Compatibility of published vocabulary/slots only; not proof of a completed run."
+    },
+    {
+      "file": "configs/t12full_mp.conf",
+      "prefix_compatible": false,
+      "mismatch_positions": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        9
+      ],
+      "paths": [
+        [
+          "m/44'/0'/0'/0/0"
+        ],
+        [
+          "m/0'/0/0"
+        ],
+        [
+          "m/0/0"
+        ],
+        [
+          "m/44'/0'/0'/0/1"
+        ]
+      ],
+      "note": "Compatibility of published vocabulary/slots only; not proof of a completed run."
+    }
+  ],
+  "black_move_files_published": [],
+  "word_indices": {
+    "they": {
+      "zero_based": 1796,
+      "one_based": 1797
+    },
+    "that": {
+      "zero_based": 1791,
+      "one_based": 1792
+    },
+    "time": {
+      "zero_based": 1810,
+      "one_based": 1811
+    }
+  },
+  "counterexample_to_all_24_word_phrases_exceed_128_bytes": {
+    "phrase": "act act act act act act act act act act act act act act act act act act act act act act act busy",
+    "byte_length": 96,
+    "valid_bip39_checksum": true,
+    "is_puzzle_solution": false
+  },
+  "remote_code_executed": false
+}

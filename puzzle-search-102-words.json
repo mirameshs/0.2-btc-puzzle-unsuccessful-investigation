@@ -1,0 +1,13 @@
+{
+  "description": "Extremely large exploratory space: choose 12 distinct words from the 102-word file, in every order. Not a practical default.",
+  "mode": "permutations",
+  "word_count": 12,
+  "pool_file": "seed-candidates.txt",
+  "fixed_positions": {},
+  "passphrases": ["", "breathe", "BREATHE"],
+  "base_paths": ["m/44'/0'/0'/0", "m/44'/0'/0'/1", "m/0'/0", "m/0"],
+  "index_start": 0,
+  "index_count": 5,
+  "include_master": true,
+  "compressed_modes": [true]
+}

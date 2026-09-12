@@ -1,0 +1,45 @@
+{
+  "heading": {
+    "text": "WELCOME TO THE BRAVE NEW WORLD",
+    "exact_BIP39_tokens": [
+      "welcome",
+      "brave",
+      "world"
+    ]
+  },
+  "top": {
+    "text": "Order and stability",
+    "exact_BIP39_tokens": [
+      "order"
+    ]
+  },
+  "base": {
+    "text": "Only real Bitcoin",
+    "exact_BIP39_tokens": [
+      "only",
+      "real"
+    ]
+  },
+  "slogan": {
+    "text": "Black lives matter No justice no peace End police brutality Stop killing us Not one more",
+    "exact_BIP39_tokens": [
+      "black",
+      "matter",
+      "peace",
+      "end",
+      "police",
+      "one",
+      "more"
+    ]
+  },
+  "bottom_quote": {
+    "text": "in wich they were received The payee needs proof that at the time of each transaction the majority of nodes agreed it was the first received",
+    "exact_BIP39_tokens": [
+      "they",
+      "proof",
+      "that",
+      "time",
+      "first"
+    ]
+  }
+}

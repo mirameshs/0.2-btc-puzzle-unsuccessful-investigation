@@ -1,0 +1,14 @@
+{
+  "description": "Separate extension of the fixed-prefix hypothesis: breathe and BREATHE only. Does not repeat the empty-passphrase run.",
+  "mode": "slots",
+  "word_count": 12,
+  "slots": [["moon"], ["tower"], ["food"], ["this"], ["real"], ["subject"], ["address"], ["total"], ["ten"], ["black"], "@BIP39", "@BIP39"],
+  "rotations": false,
+  "reverse": false,
+  "passphrases": ["breathe", "BREATHE"],
+  "base_paths": ["m/44'/0'/0'/0", "m/44'/0'/1'/0"],
+  "index_start": 0,
+  "index_count": 10,
+  "include_master": false,
+  "compressed_modes": [true, false]
+}

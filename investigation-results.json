@@ -1,0 +1,67 @@
+{
+  "utc": "2026-09-11T09:49:19.790963+00:00",
+  "target": "1KfZGvwZxsvSmemoCmEV75uqcNzYBHjkHZ",
+  "test_vectors_passed": 24,
+  "image_audit": {
+    "size": [
+      1600,
+      1200
+    ],
+    "mode": "RGBA",
+    "metadata": {
+      "srgb": 0
+    },
+    "alpha_range": [
+      255,
+      255
+    ],
+    "sha256": "d0b04378f75d63997b8034ec2ef1bdd108178e4546de78237bd35abf4189a782",
+    "trailing_bytes": 0,
+    "chunk_types": [
+      "IDAT",
+      "IEND",
+      "IHDR",
+      "sBIT",
+      "sRGB"
+    ]
+  },
+  "legacy_wordlist_check": {
+    "word_count": 1626,
+    "clues": {
+      "moon": true,
+      "tower": true,
+      "food": false,
+      "breathe": true,
+      "tuesday": false,
+      "this": false,
+      "subject": true,
+      "real": true,
+      "black": true
+    }
+  },
+  "search_scope": "12-word fixed hint slots, all cyclic rotations and reversals; not exhaustive",
+  "passphrases": [
+    "",
+    "breathe",
+    "BREATHE"
+  ],
+  "base_paths": [
+    "m/44'/0'/0'/0",
+    "m/44'/0'/0'/1",
+    "m/0'/0",
+    "m/0"
+  ],
+  "child_indices": [
+    0,
+    1,
+    2
+  ],
+  "also_checked": "master key P2PKH, compressed and uncompressed",
+  "phrase_count": 13824,
+  "checksum_valid_count": 897,
+  "address_checks": 37674,
+  "matches": [],
+  "github_example_checksum_valid": false,
+  "all_102_words_12_permutations_no_repeats": 647126836143864620544000,
+  "elapsed_seconds": 51.36
+}

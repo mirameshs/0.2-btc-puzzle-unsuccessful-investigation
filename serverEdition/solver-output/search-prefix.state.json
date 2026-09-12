@@ -1,0 +1,10 @@
+{
+  "signature": "e2832e5db575f2d16ccb23f03c129efbe4bea1b7e29b6162255906578d0390f2",
+  "target": "1KfZGvwZxsvSmemoCmEV75uqcNzYBHjkHZ",
+  "total": 4194304,
+  "next_rank": 4194304,
+  "valid": 262144,
+  "address_checks": 10485760,
+  "elapsed_seconds": 1047.8291132999875,
+  "status": "exhausted"
+}
